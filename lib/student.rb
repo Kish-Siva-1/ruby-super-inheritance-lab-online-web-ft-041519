@@ -1,3 +1,3 @@
 class Student   
-  "Hey there? "
+  "Hey there! I'm so excited to learn stuff."
 end 
